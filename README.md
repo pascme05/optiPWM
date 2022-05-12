@@ -16,17 +16,9 @@ The following boundary conditions are set for the calculations:
 # Publication
 
 # Dependencies
-The BaseNILM Toolkit was implemented using the following dependencies:
-- Python 3.8
-- Tensorflow 2.5.0
-- Keras 2.4.3
+The BaseNILM optiPWM toolkit was implemented using the following dependencies:
 
-For GPU based calculations CUDA in combination with cuDNN has been used, 
-utilizing the Nvidia RTX 3000 series for calculation. 
-The following versions have been tested and proven to work with the BaseNILM toolkit:
-- CUDA 11.4
-- DNN 8.2.4
-- Driver 472.39
+- MATLAB 2021 R1
 
 # Usage
 
@@ -67,6 +59,5 @@ A SIMPLE WIDE RANGE SPACE VECTOR PWM CONTROLLER ALGORITHM
 FOR VOLTAGE-FED INVERTER INDUCTION MOTOR DRIVE INCLUDING
 SIX-STEP MODE”.
 
-[6] Felix Jenni, Dieter Wüest
-1. Auflage 1995; 368 Seiten, Format 16 x 23 cm, broschiert mit 
+[6] Felix Jenni, Dieter Wüest 1. Auflage 1995; 368 Seiten, Format 16 x 23 cm, broschiert mit 
 zahlreichen grafischen Darstellungen, ISBN 978-3-7281-2141-7
