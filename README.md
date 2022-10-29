@@ -9,7 +9,7 @@ The transformation between the triangle-carrier-method and the space-
 vector approach is done accordingly to [6]
 The following boundary conditions are set for the calculations:
 
-- Valid for high switching frequencies $f_s >> f_el$
+- Valid for high switching frequencies $f_s >> f_{el}$
 - Semiconductors are ideal (linear commutation)
 - the machine is modelled as a pure inductive load
 
