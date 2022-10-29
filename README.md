@@ -27,7 +27,7 @@ The BaseNILM optiPWM toolkit was implemented using the following dependencies:
 - MATLAB 2021 R1
 
 # Usage
-To start the toolkit use start.m and configure the values as approxpriate.
+To start the toolkit use start.m, the results will then be calculate in main.m.
 
 # Results
 Overview of the time- and frequency-domain for switching sequence 0127:
