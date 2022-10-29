@@ -14,6 +14,12 @@ The following boundary conditions are set for the calculations:
 - the machine is modelled as a pure inductive load
 
 # Publication
+When using the toolkit please cite the following paper:
+
+Schirmer, P.A., Glose, D. & Ammann, U. Zero-voltage and frequency pattern selection for DC-link loss minimization in PWM-VSI drives. Electr Eng (2022). https://doi.org/10.1007/s00202-022-01627-z
+
+The full text is available here:
+https://www.researchgate.net/publication/364826204_Zero-voltage_and_frequency_pattern_selection_for_DC-link_loss_minimization_in_PWM-VSI_drives
 
 # Dependencies
 The BaseNILM optiPWM toolkit was implemented using the following dependencies:
@@ -21,7 +27,11 @@ The BaseNILM optiPWM toolkit was implemented using the following dependencies:
 - MATLAB 2021 R1
 
 # Usage
+DC-Link distortions for switching sequence 0127:
+![image](https://user-images.githubusercontent.com/66561268/198819783-e4b30df9-353b-4520-84f1-7fbcf4ec3613.png)
 
+Line distortions (with frequenc variation) for switching sequence 0127:
+![image](https://user-images.githubusercontent.com/66561268/198819837-51364abd-af30-4699-ae0b-d4ac56017002.png)
 
 # Results
 
@@ -34,6 +44,7 @@ toolkit or spotted any mistake, please contact me via: p.schirmer@herts.ac.uk
 The software framework is provided under the MIT license.
 
 # Cite
+Schirmer, P.A., Glose, D. & Ammann, U. Zero-voltage and frequency pattern selection for DC-link loss minimization in PWM-VSI drives. Electr Eng (2022). https://doi.org/10.1007/s00202-022-01627-z
 
 # References
 [1] Simple Analytical and Graphical Methods for Carrier-Based PWM-VSI
