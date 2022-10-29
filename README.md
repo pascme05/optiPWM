@@ -27,13 +27,17 @@ The BaseNILM optiPWM toolkit was implemented using the following dependencies:
 - MATLAB 2021 R1
 
 # Usage
-DC-Link distortions for switching sequence 0127:
-![image](https://user-images.githubusercontent.com/66561268/198819783-e4b30df9-353b-4520-84f1-7fbcf4ec3613.png)
-
-Line distortions (with frequenc variation) for switching sequence 0127:
-![image](https://user-images.githubusercontent.com/66561268/198819837-51364abd-af30-4699-ae0b-d4ac56017002.png)
+To start the toolkit use start.m and configure the values as approxpriate.
 
 # Results
+Overview of the time- and frequency-domain for switching sequence 0127:
+![time](https://user-images.githubusercontent.com/66561268/198819940-051d735e-f548-4198-9ddd-c9977ab82580.png)
+
+Overview of the spatial distortions for switching sequence 0127:
+![distortion](https://user-images.githubusercontent.com/66561268/198819968-65cb3911-cfa7-4307-9ff2-9d9b6bdc3ad1.png)
+
+Overview of the frms distortions for switching sequence 0127:
+![frmsDist](https://user-images.githubusercontent.com/66561268/198819983-c9b49292-5000-4a36-be7f-90a8f622cb25.png)
 
 # Development
 As failure and mistakes are inextricably linked to human nature, the toolkit is obviously not perfect, 
